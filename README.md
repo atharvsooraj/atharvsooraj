@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey!, I'm ATHARV SOORAJ
 
-<!--
-**atharvsooraj/atharvsooraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MECHANICAL ENGINEERING STUDENT AT VIT BHOPAL UNIVERSITY
+FIRST YEAR (BATCH OF 2025-2029)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a student passionate about programming and robotics.
+I hope to learn and develop strong problem-solving skills 
+throughout my academic journey.
+
+---
+
+## Currently Learning
+- Programming 
+- robotics and mechanics 
+- Version Control with Git & GitHub
+
+---
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/atharv-sooraj-050a95386/
+- Email: Atharv.sooraj@gmail.com
+
